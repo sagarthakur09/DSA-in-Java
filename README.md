@@ -1,6 +1,6 @@
-# DSA in C++ – Solutions
+# DSA in Java – Solutions
 
-A clean, well‑organized repository where I solve Data Structures & Algorithms (DSA) problems in **C++** and document approaches, code, and complexity. Perfect for interview prep and revision.
+A clean, well‑organized repository where I solve Data Structures & Algorithms (DSA) problems in **Java** and document approaches, code, and complexity. Perfect for interview prep and revision.
 
 ---
 
@@ -8,7 +8,7 @@ A clean, well‑organized repository where I solve Data Structures & Algorithms 
 
 * Practice DSA daily and track progress.
 * Keep solutions readable, tested, and categorized.
-* Learn clean C++ (C++17/C++20), STL, and problem‑solving patterns.
+* Learn clean Java , and problem‑solving patterns.
 
 ---
 Happy coding! 🚀
